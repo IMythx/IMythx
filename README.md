@@ -5,6 +5,7 @@ I am a Computer Science enthusiast. I am passionate about Web developing, and pr
 Skills:
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/html5.svg' alt='html5' height='40'>](https://developer.mozilla.org/en-US/docs/Web/HTML)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/css3.svg' alt='css3' height='40'>](https://developer.mozilla.org/en-US/docs/Web/CSS)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/javascript.svg' alt='javascript' height='40'>](https://developer.mozilla.org/en-US/docs/Web/javascript)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/react.svg' alt='react' height='40'>](https://react.dev/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/redux.svg' alt='redux' height='40'>](https://redux.js.org/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/next-dot-js.svg' alt='next-dot-js' height='40'>](https://nextjs.org/)
+
 Contact With Me:
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/IMythx)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/mahmoud-helal-b0a89a246/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://mahmoud--helal.web.app/)    
